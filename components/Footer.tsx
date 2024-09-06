@@ -7,8 +7,8 @@ const Footer = () => {
       <div className="flex justify-between py-8">
         <p className="text-primary tracking-tight">
           Designed and Developed by{" "}
-          <Link href={"https://keshavbagaade.com"} className="font-bold">
-            Keshav
+          <Link href={"https://github.com/ShivamH1"} className="font-bold">
+            Shivam
           </Link>
         </p>
       </div>

@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 const manrope = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Kosh",
+  title: "Wallet Gen",
   description: "Your Personal Web3 Wallet.",
   icons: [
     {
